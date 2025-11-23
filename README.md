@@ -27,6 +27,10 @@ I enjoy understanding how threats work, investigating security incidents, and bu
 - <b>Cyber Challenge Lab</b>
   - <a href="">XP Challenge Project</a> (final name coming soon)
 
+ <h2>🏅 Certifications</h2>
+
+- <b>CompTIA Security+</b>  
+- <b>AWS Certified Cloud Practitioner</b> 
 
 <h2>🤝 Connect with Me</h2>
 
