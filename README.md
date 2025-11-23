@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rena! <br/>Cyber Security student</h1>
+<h1>Hi, I'm Rena Sani! <br/>Cyber Security student</h1>
 
 <p>
 I’m an Information Security & Intelligence student with strong interests in digital forensics, malware analysis, cloud security, and hands-on cybersecurity practice.  
