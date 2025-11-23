@@ -40,6 +40,7 @@ I enjoy understanding how threats work, investigating security incidents, and bu
 <br/><br/>
 
 [github]: https://github.com/yourgithubusername  
-[linkedin]: https://www.linkedin.com/in/www.linkedin.com/in/rena-sani
+[linkedin]: https://www.linkedin.com/in/rena-sani
+
 
 
