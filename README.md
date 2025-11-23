@@ -9,7 +9,7 @@ I enjoy understanding how threats work, investigating security incidents, and bu
 
 <!-- Malware Analysis -->
 - <b>Malware Analysis</b>
-  - <a href="https://github.com/Rena45678/Malware-analysis-project" target="_blank">Dynamic Malware Analysis Lab</a>
+  - <a href="https://github.com/Rena45678/Malware-analysis-project" target="_blank">Dynamic Malware Analysis project</a>
 
 <!-- MITRE ATT&CK -->
 - <b>MITRE ATT&CK Framework</b>
