@@ -32,7 +32,16 @@ I enjoy understanding how threats work, investigating security incidents, and bu
 - <b>CompTIA Security+</b>  
 - <b>AWS Certified Cloud Practitioner</b> 
 
+<h2> Additional Accomplishments</h2>
+<ul>
+  <li><b>Honors Student</b></li>
+  <li><b>Member of the International Student Organization</b></li>
+  <li><b>Member of the African Student Organization</b></li>
+  <li><b>GPA:</b> 3.95</li>
+</ul>
+
 <h2>🤝 Connect with Me</h2>
+
 
 [<img align="left" alt="Rena | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Rena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
