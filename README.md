@@ -2,7 +2,7 @@
 
 <p>
 I’m an Information Security & Intelligence student with strong interests in digital forensics, malware analysis, cloud security, and hands-on cybersecurity practice.  
-I enjoy understanding how threats work, investigating security incidents, and building real-world projects that strengthen my skills across offensive and defensive security.
+I enjoy learning how threats work, investigating security incidents, and building real-world projects that strengthen my skills on offensive and defensive security.
 </p>
 
 <h2>🔐 Cybersecurity Projects:</h2>
