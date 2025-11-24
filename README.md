@@ -17,15 +17,15 @@ I enjoy understanding how threats work, investigating security incidents, and bu
 
 <!-- Digital Forensics -->
 - <b>Digital Forensics</b>
-  - <a href="">Full Digital Forensics Investigation Lab</a> (link coming soon)
+  - <a href="">Full Digital Forensics Investigation Lab</a> 
 
 <!-- Penetration Testing -->
 - <b>Penetration Testing (AWS)</b>
-  - <a href="">Cloud-Based Vulnerability Assessment & Exploitation Project</a> (link coming soon)
+  - <a href="">Cloud-Based Vulnerability Assessment & Exploitation Project</a>
 
 <!-- XP Challenge -->
 - <b>Cyber Challenge Lab</b>
-  - <a href="">XP Challenge Project</a> (final name coming soon)
+  - <a href="">XP Challenge Project</a>
 
  <h2>🏅 Certifications</h2>
 
