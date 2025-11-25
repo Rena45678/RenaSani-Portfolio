@@ -27,6 +27,25 @@ I enjoy learning how threats work, investigating security incidents, and buildin
 - <b>Cyber Challenge Lab</b>
   - <a href="">XP Challenge Project</a>
 
+ ## 🛠️Tools & Technologies Used
+
+- **Wireshark**
+- **Tcpdump**
+- **TShark**
+- **FTK Imager**
+- **Autopsy**
+- **Forensic Explorer**
+- **VMware Workstation**
+- **RegShot / ProcMon**
+- **Any.Run Sandbox**
+- **IBM SPSS Modeler**
+- **SQL Server Management Studio**
+- **Linux (Ubuntu / Kali)**
+- **Python**
+- **Google Workspace (Docs, Sheets, Slides)**
+- **AWS (Cloud environments / EC2)**
+
+
  <h2>🏅 Certifications</h2>
 
 - <b>CompTIA Security+</b>  
